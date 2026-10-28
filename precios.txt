@@ -1,0 +1,6 @@
+pizza: 8000
+milanesa: 6000
+tarta: 7000
+empanadas: 600
+fideos: 2000
+ñoquis: 4000
