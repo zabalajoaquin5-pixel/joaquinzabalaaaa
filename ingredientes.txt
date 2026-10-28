@@ -1,0 +1,7 @@
+harina
+huevo
+queso
+carne
+levadura
+sal
+aceite

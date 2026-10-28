@@ -1,0 +1,3 @@
+delivery: 1000
+chef: 50000
+cajero: 25000
